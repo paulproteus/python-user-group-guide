@@ -39,12 +39,16 @@ their own event announcement software. A handful of those, such as
 ChiPy in Chicago, also host Meetup.com pages where they cross-announce
 their events so they can reach people who use that site.
 
-If you do use Meetup.com, the Python Software Foundation will
-reimburse you for your yearly Meetup.com account fees. Just send an
-email to the PSF requesting that money; see the :ref:`sample grant
-application <sample-grants-meetup>` for what to say when requesting
-it. Also note that it looks good for me (Asheesh), the author of this
-document, when you request that money. So please do!
+**Please request reimbursement**. If you do use Meetup.com, the Python
+Software Foundation will reimburse you for your yearly Meetup.com
+account fees. Just send an email to the PSF requesting that money; see
+the :ref:`sample grant application <sample-grants-meetup>` for what to
+say when requesting it.
+
+Again, please request this money! The PSF has allocated money toward
+this, and wants to spend it on your group! Also, I look good if I am
+the one who caused you to get this money.
+
 
 ..
     General tips on finding attendees
